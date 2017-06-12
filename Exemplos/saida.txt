@@ -1,0 +1,39 @@
+% Arquivo de exemplos, CLUSTERIZACAO com algoritmo KMeans
+% (% sao comentarios)
+% Autor: David Morosini - IA (2017/1)
+% Pontos gerados de forma aleatoria
+% Caracteristicas de analise:  pontos X, Y
+% Quantidade de pontos: 30
+% Range dos pontos: 0 - 500
+30
+500
+386 383
+415 277
+335 293
+492 386
+421 149
+27 362
+59 190
+426 263
+426 40
+236 172
+368 211
+429 67
+30 282
+123 362
+135 67
+302 429
+58 22
+167 69
+456 393
+42 11
+373 229
+419 421
+37 284
+324 198
+370 315
+26 413
+480 91
+373 456
+170 362
+281 496
